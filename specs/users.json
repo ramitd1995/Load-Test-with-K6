@@ -1,0 +1,20 @@
+{
+    "users":[
+      {
+      "name": "ramit",
+      "job": "sdet"
+      },
+      {
+      "name": "harshit",
+      "job": "entrepreneur"
+      },
+      {
+      "name": "nityam",
+      "job": "director"
+      },
+      {
+      "name": "ugam",
+      "job": "product manager"
+      }
+    ]
+  }
